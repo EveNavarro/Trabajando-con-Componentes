@@ -1,3 +1,11 @@
+<img src="https://github.com/EveNavarro/Trabajando-con-Componentes/blob/master/public/logo192.png" />
+
+# :sparkles: Trabajando con Componentes :sparkles: [pdf](https://github.com/EveNavarro/Trabajando-con-Componentes/blob/master/public/Ejercitaci%C3%B3n%20-%20Trabajando%20con%20componentes.pdf)
+
+## Preview de la ejercitación
+
+<img src="https://github.com/EveNavarro/Trabajando-con-Componentes/blob/master/public/table-content.png" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
