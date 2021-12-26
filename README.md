@@ -6,6 +6,8 @@
 
 <img src="https://github.com/EveNavarro/Trabajando-con-Componentes/blob/master/public/table-content.png" />
 
+# :slightly_smiling_face:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
